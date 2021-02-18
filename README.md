@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somjyoti
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning NodeJS, as well as CSS
 
 <!---
